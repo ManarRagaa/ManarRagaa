@@ -1,8 +1,8 @@
 ## Hi there! I'm a Machine Learning Engineer \U0001F4BB✨
 
-![Machine Learning](https://cdn-icons-png.freepik.com/512/8618/8618875.png)
-![Deep Learning](https://cdn2.vectorstock.com/i/1000x1000/37/51/deep-learning-ai-color-icon-vector-28873751.jpg)
-![AI Enthusiast](https://cdn-icons-png.flaticon.com/512/4630/4630645.png)
+![Machine Learning]
+![Deep Learning]
+![AI Enthusiast]
 
 ### 🚀 About Me
 I am a passionate **Machine Learning Engineer**, developing deep learning models, and working on AI-driven solutions. I love solving complex problems and constantly learning new technologies.
