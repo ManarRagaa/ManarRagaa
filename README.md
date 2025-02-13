@@ -1,16 +1,25 @@
-## Hi there 👋
+## Hi there! I'm a Machine Learning Engineer \U0001F4BB✨
 
-<!--
-**ManarRagaa/ManarRagaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-Expert-blue)
+![Deep Learning](https://img.shields.io/badge/Deep%20Learning-Advanced-red)
+![AI Enthusiast](https://img.shields.io/badge/AI-Enthusiast-green)
 
-Here are some ideas to get you started:
+### 🚀 About Me
+I am a passionate **Machine Learning Engineer**, developing deep learning models, and working on AI-driven solutions. I love solving complex problems and constantly learning new technologies.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Languages & Tools
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+### 📊 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=tokyonight)
+
+### 📫 Contact Me
+- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/manar-mohamed-65021a284?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
+- Gmail: [your.email@gmail.com](manarragaa@gmail.com)
