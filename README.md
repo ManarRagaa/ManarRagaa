@@ -1,4 +1,4 @@
-## Hi there! I'm a Machine Learning Engineer \U0001F4BB✨
+## Hi there! I'm a Machine Learning Engineer✨
 
 ![Machine Learning]
 ![Deep Learning]
