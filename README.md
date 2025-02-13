@@ -3,7 +3,7 @@
 **Machine Learning 📊**   **Deep Learning 🧠**   **Passionate about Artificial Intelligence 🤖**
 
 ### 🚀 About Me
-I am a passionate **Machine Learning Engineer**, developing deep learning models, and working on AI-driven solutions. I love solving complex problems and constantly learning new technologies.
+I am a passionate **Machine Learning Engineer**, developing deep learning models. I love solving complex problems and constantly learning new technologies.
 
 ### 🛠️ Languages & Tools
 
@@ -19,7 +19,7 @@ I am a passionate **Machine Learning Engineer**, developing deep learning models
 ![Microsoft Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Excel](https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
 
-### 👫🏻 Contact Me
+### 📫 Contact Me
 - LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/manar-mohamed-65021a284?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
 - Gmail: [your.email@gmail.com](mailto:manarragaa@gmail.com)
 
