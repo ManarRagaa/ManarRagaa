@@ -1,6 +1,6 @@
 ## Hi there! I'm a Machine Learning Engineer✨
 
-**Machine Learning**   **Deep Learning**   **Passionate about Artificial Intelligence**  
+**Machine Learning 📊**   **Deep Learning 🧠**   **Passionate about Artificial Intelligence 🤖**
 
 ### 🚀 About Me
 I am a passionate **Machine Learning Engineer**, developing deep learning models, and working on AI-driven solutions. I love solving complex problems and constantly learning new technologies.
