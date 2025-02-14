@@ -1,4 +1,4 @@
-## Hi there! I'm a Machine Learning Engineer✨
+## Machine Learning Engineer✨
 
 **🎓Currently a student at Ahram Canadian University (ACU).**
 
