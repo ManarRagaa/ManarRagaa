@@ -5,7 +5,7 @@
 **Machine Learning 📊**   **Deep Learning 🧠**   **Passionate about Artificial Intelligence 🤖**
 
 ### 🚀 About Me
-I am a passionate **Machine Learning Engineer**, developing deep learning models. I love solving complex problems and constantly learning new technologies.
+I am a passionate **Machine Learning Engineer**. I love solving complex problems and constantly learning new technologies.
 
 ### 🛠️ Languages & Tools
 
