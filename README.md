@@ -21,7 +21,7 @@ I am a passionate **Machine Learning Engineer**. I love solving complex problems
 ![Excel](https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
 
 ### 📫 Contact Me
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/manar-mohamed-65021a284?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
-- Gmail: [your.email@gmail.com](mailto:manarragaa@gmail.com)
+- LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/manar-mohamed-65021a284?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
+- Gmail: [Gmail](mailto:manarragaa@gmail.com)
 
 
