@@ -2,7 +2,7 @@
 **🎓Currently a student at Ahram Canadian University (ACU).**
  
 ###  About Me
-I am a passionate **Machine Learning Engineer**. I love solving complex problems and constantly learning new technologies.
+I am a passionate **Ai Engineer**. I love solving complex problems and constantly learning new technologies.
 
 ### 🛠️ Languages & Tools
 
