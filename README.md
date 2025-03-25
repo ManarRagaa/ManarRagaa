@@ -1,9 +1,6 @@
-## Machine Learning Engineer✨
 
 **🎓Currently a student at Ahram Canadian University (ACU).**
-
-**Machine Learning 📊**   **Deep Learning 🧠**   **Passionate about Artificial Intelligence 🤖**
-
+ 
 ### 🚀 About Me
 I am a passionate **Machine Learning Engineer**. I love solving complex problems and constantly learning new technologies.
 
